@@ -1,5 +1,5 @@
 # OOP-project
-A look at Object-Orientated Programming.
+<p>A look at Object-Orientated Programming.</p>
 
 <p>More focus is put on the functionality of the Web Page.</p>
 
