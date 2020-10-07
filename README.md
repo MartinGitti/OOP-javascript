@@ -1,7 +1,7 @@
 # OOP-project
 <p>A look at Object-Orientated Programming.</p>
 
-<p>Storing data with the use of ojects.</p>
+<p>Storing data with the use of objects.</p>
 
 ## Page View:
 * Web Page of a car manufacturer that displays various car models, makes and total value of the vehicles.
