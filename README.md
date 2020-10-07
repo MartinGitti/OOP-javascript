@@ -8,6 +8,7 @@
 <img src="/images/pageView1.JPG" alt="Page view">
 <img src="/images/pageView2.JPG" alt="Page view">
 <img src="/images/pageView3.JPG" alt="Page view">
+<hr/>
 
 ### Use of code:
 <p>Please feel free to use the code of the projects above.</p>
