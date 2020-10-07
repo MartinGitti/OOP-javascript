@@ -1,9 +1,10 @@
 # OOP-project
 <p>A look at Object-Orientated Programming.</p>
 
-<p>More focus is put on the functionality of the Web Page.</p>
+<p>Storing data with the use of ojects.</p>
 
 ## Page View:
+* Web Page of a car manufacturer that displays various car models, makes and total value of the vehicles.
 <img src="/images/pageView1.JPG" alt="Page view">
 <img src="/images/pageView2.JPG" alt="Page view">
 <img src="/images/pageView3.JPG" alt="Page view">
